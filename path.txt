@@ -1,0 +1,5 @@
+jakies
+plik
+do
+sprawdzenia działania
+programu Spring
